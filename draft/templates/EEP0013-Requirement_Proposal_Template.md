@@ -83,5 +83,4 @@ These are the EEP Proposals that derived from these Requirements:
 EEP     | Headline                                     | WGs                    |TSC |
 --------|----------------------------------------------|------------------------|----|
 00xx    |                                              |                        |    |
-        |                                              |                        |    | 
         
