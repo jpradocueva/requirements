@@ -74,8 +74,8 @@ Regulatory    |                                                       |         
 Business      |                                                       |           |       |               |       |          |     |
 Technology    |                                                       |           |       |               |       |          |     |
 Risk          |                                                       |           |       |               |       |          |     |
-**Required    |                                                       |           |       |               |       |          |     |
-**EF          |                                                       |           |       |               |       |          |     |
+**Required**  |                                                       |           |       |               |       |          |     |
+**EF**        |                                                       |           |       |               |       |          |     |
 
 # Proposals
 These are the EEP Proposals that derived from these Requirements:
