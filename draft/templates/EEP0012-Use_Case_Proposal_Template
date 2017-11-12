@@ -1,0 +1,16 @@
+# Preamble
+
+<!-- RFC 822 style headers containing metadata about the EEP, including the EEP number, a short descriptive title (limited to a maximum of 44 characters), the names, and optionally the contact info for each author, etc. -->
+
+    EEP: 0012
+    Title: Use Case Template
+    Author: Joaquin Prado
+    Type: Process
+    Status: Draft
+    Working Group: Process
+    Created: 2017-11-12
+    Requires (*optional): N/A
+    Replaces (*optional): N/A
+ 
+ # What is an Use Case   
+    
