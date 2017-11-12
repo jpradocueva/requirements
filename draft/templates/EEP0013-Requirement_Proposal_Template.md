@@ -9,6 +9,9 @@
     Branch: eep-0004 (Working Group Process)
 
 # Use Case Domains
+
+In order to define a acomplete set of requirements, it is necessary to take a holitic view by consulting Subjet Matter Experts, (SME), from all relevant to use-case domains. In this way, it is possible to define cohesive specifications.
+The list of domains listed below is not an exhaustive list, but it should be a good starting point for EEP authors to build on:
 Based on the Use Case listed in the head of this document: ```EEP-xxx-title.md```, subject matter experts should provide the following analysis:
 
 Domain        | Description
@@ -24,7 +27,12 @@ Business      | Get to know you business functional and non-functional requireme
 Technology    | Makes sure your requirements are technically implementable.
 Risk          | Consider all of the domains from what-can-fail point of view, and propose mitigation requirements.
 
+
 # Competing Factors
+EF's geth client codebase can be described by a set of features. 
+Features can thus be split into factors e.g. privacy and confidentiality, and their offering levels e.g. high, medium, low or non-existent. This helps to compare similar offerings e.g. EF's geth codebase versus EEA's configuration X codebase, by treating factors as competing offerings, and comparing them by the offering levels. 
+
+See Configurations sections for a template table. Below is the authoritative set of factors and EF's baseline offering levels. As new factors are discovered, the table below must be updated.
 
 Factors/Levels       | EF | Description                                                           | 0  | 1  | 2  | 3  | 4  | 5  | 
 --------------------:|----|:---------------------------------------------------------------------|:---|:---|:---|:---|:---|:---|
@@ -38,6 +46,7 @@ Compliance           |1  | This is a tricky one, but largely can the system supp
 Finality             |3 | Can transactions be reversed, and if so how long for and what are the chances of doing so. | | | | | | |
 
 # Configurations
+A client code configuration specifies competing factor's offering levels. Software vendors can quickly advertise to their users which configurations their client software supports. Users can quickly decide which client to use by mapping their requirements to competing factor's offering levels, aggregating the results into a configuration, and searching for vendors that support that configuration. Below is a template configuration table that can be used by both software vendors and end users to match needs to clients.
 
 Competing Factors/Offering Levels        |EF  | EEA Configuration X |
 -----------------------------------------|----|---------------------|
@@ -50,6 +59,7 @@ Trust                                    |5   |                     |
 Compliance                               |1   |                     |
 
 # Requirements
+The table below details the requirements for the need use case along with competing factor offering levels.
 
 Domain        | Requirements                                          |Performance|Scaling|Confidentiality|Privacy|Censorship|Trust|
 --------------|-------------------------------------------------------|-----------|-------|---------------|-------|----------|-----|
@@ -68,7 +78,7 @@ Required      |                                                       |         
 EF            |                                                       |           |       |               |       |          |     |
 
 # Proposals
-These are the EEP Proposals that derived from these Requirements
+These are the EEP Proposals that derived from these Requirements:
 
 EEP     | Headline                                     | WGs                    |TSC |
 --------|----------------------------------------------|------------------------|----|
