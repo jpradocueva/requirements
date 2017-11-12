@@ -55,9 +55,23 @@ Domain        | Requirements                                          |Performan
 --------------|-------------------------------------------------------|-----------|-------|---------------|-------|----------|-----|
 Legal         |                                                       |           |       |               |       |          |     |
 Regulatory    |                                                       |           |       |               |       |          |     |
-Finane        |                                                       |           |       |               |       |          |     |
+Financ        |                                                       |           |       |               |       |          |     |
+Accounting    |                                                       |           |       |               |       |          |     |
+Audit         |                                                       |           |       |               |       |          |     |
+Tax           |                                                       |           |       |               |       |          |     |
 Operations    |                                                       |           |       |               |       |          |     |
 Regulatory    |                                                       |           |       |               |       |          |     |
 Business      |                                                       |           |       |               |       |          |     |
 Technology    |                                                       |           |       |               |       |          |     |
 Risk          |                                                       |           |       |               |       |          |     |
+Required      |                                                       |           |       |               |       |          |     |
+EF            |                                                       |           |       |               |       |          |     |
+
+# Proposals
+These are the EEP Proposals that derived from these Requirements
+
+EEP     | Headline                                     | WGs                    |TSC |
+--------|----------------------------------------------|------------------------|----|
+00xx    |                                              |                        |    |
+        |                                              |                        |    | 
+        
