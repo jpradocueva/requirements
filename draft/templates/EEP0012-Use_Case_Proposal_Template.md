@@ -16,6 +16,11 @@ the interactions between a role (actor) and a system to achieve a goal. The acto
 The analysis of the Use Case will identify the requirements of the system under desing. information contained in Use Case will be used to derive technical requirements.
 TO BE DELETED.
 ```
+# Use Case Rationale
+```
+This template is intended to collect the primary information of a new feature. The information listed here will be used to create a set of technical requirements, which will be formalized in EEP-0013-Requirements_Proposal_Template.md. It is possible to merge these two templates "EEP-0012-Use_Case_Proposal_Template.md" and "EEP-0013-Requirements_Proposal_Template.md" a later stage.
+TO BE DELETED.
+```
 
 # Use Case Title (write your title here)
 ```
