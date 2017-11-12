@@ -2,9 +2,10 @@
 Enterprise Ethereum Proposals (EEPs) describe the standards for Enterprise Ethereum Alliance, including core protocol specifications, client APIs, and contract standards. EEPs are inspired by [EIPs](https://github.com/ethereum/EIPs). Read [EEP0001 Proposal Process](draft/process/EEP0001-Proposal_Process.md) to get started.
 
 # EEA Structure
-
+![alt text](images/EEA-structure.png "Figure 1: EEA Governance Structure.")
 
 # EEA Overall Process
+![alt text](images/EEA-overall-process.png "Figure 2: EEA Overall Process.")
 
 The EEA process is divided in the following stages:
 ## Ideas Generation
@@ -21,9 +22,14 @@ The EEA process is divided in the following stages:
  Working Group Process         | []()                                       | Template to define new or enhanced changes to a Working Group Process
  Standard Working Group        | []()                                       |
  
- ### Enterprise Ethereum Proposal Process
- Depictured below:
+ ### Use Case Creation Process
+ 
+ ![alt text](images/Use-Case-process.png "Figure 3: Use Case Creation Process.")
+
+ ### Enterprise Ethereum Proposal Document Process
+ Depictured below.
  In this stage is where the EEPs are constructed. 
+ ![alt text](images/EEP-process.png "Figure 4: EEP Creation Process.")
 
 ## Specifications Development
 In this stage is where the actual Technical Specifications and Coe is developed.
