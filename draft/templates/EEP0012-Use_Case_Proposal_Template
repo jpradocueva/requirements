@@ -8,7 +8,7 @@
     Requires (*optional): N/A
     Replaces (*optional): N/A
  
- # What is an Use Case   
+# What is an Use Case   
  
 A Use Case document describes commercial requirements a very high-level. It contains a list of actions or events steps typically defining
 the interactions between a role (actor) and a system to achieve a goal. The actor can be a human or other external system.
@@ -16,7 +16,7 @@ the interactions between a role (actor) and a system to achieve a goal. The acto
 The analysis of the Use Case will identify the requirements of the system under desing. information contained in Use Case will be used to derive technical requirements.
 
 
- # Use Case Title 
+# Use Case Title 
 ```
 The level of detail of descriptions shall be above technical implementations of protocols.
 The sub-sections below should consist of one or two sentences.
