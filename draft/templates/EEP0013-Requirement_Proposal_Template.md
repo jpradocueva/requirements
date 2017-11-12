@@ -27,7 +27,7 @@ Risk          | Consider all of the domains from what-can-fail point of view, an
 # Competing Factors
 
 Factors/Levels       | EF | Description                                                           | 0  | 1  | 2  | 3  | 4  | 5  | 
---------------------:|----:|---------------------------------------------------------------------:|---:|---:|---:|---:|---:|---:|
+--------------------:|----|:---------------------------------------------------------------------|:---|:---|:---|:---|:---|:---|
 Privacy              | 5   | Does anyone know who are you and what you do?                        |No  |    |    |    |    |Yes |
 Confidentiality      | 0   | How easy it is to share some data with a sub-set of participants and make sure others can't access that data.                                                                    |No    |    |    |    |    |  Yes  | 
 Performance          |1    | How quickly can a transaction be settled e.g. 10 mins minimum for Bitcoin, 12 seconds minimum for Ethereum. |  |10mins|tbc |tbc| tbc| 1sec|
@@ -36,6 +36,4 @@ Censorship-resistance|5    | Can a central authority prevent miners confirming t
 Trust                |5   | How likely is it that someone can subvert 51% of the network i.e. number and independence of nodes matters. | | | | | | |
 Compliance           |1  | This is a tricky one, but largely can the system support existing regulations. Needs more work. | | | | | | |
 Finality             |3 | Can transactions be reversed, and if so how long for and what are the chances of doing so. | | | | | | |
-Trust                |5 | How likely is it that someone can subvert 51% of the network i.e. number and independence of nodes matters. | | | | | | |
-Compliance           |1 | This is a tricky one, but largely can the system support existing regulations. Needs more work.| | | | | | | 
-Finality             |  |
+
