@@ -9,18 +9,23 @@ Enterprise Ethereum Proposals (EEPs) describe the standards for Enterprise Ether
 
 The EEA process is divided in the following stages:
 ## Ideas Generation
- * In this stage is where the "need" is define. The "need" needs to be written down in a EEP document. 
- * The "need" could cover different type of topics:
+ * In this stage is where the "need" is defined. The "need" needs to be written down in a EEP document. 
+ * The "need" could cover different type of topics. Please select the corresponding EEP template to define your "need".
+ ```
+ Note: more EEPs templates are on the way, if you need something that is not listed below, please get in contact with the Process WG"
+ ```
+ 
  
  Need                          | EEP Template                           | Description
  ------------------------------|----------------------------------------|-------------------------------------------------------
  Governance Policies           | TBD                                    |
- Use Cases                     | [EEP-0012-Use_Case_Proposal_Template]()    | This template provide guidelines on how to construct a use case.
- Requirements                  | [EEP-0013-Requirements_Proposal_Template]()| Template that can be used to convert the Use Case commercial requirements into technical requirements.
+ Use Cases                     | [EEP-0012-Use_Case_Proposal_Template](draft/templates/EEP-0012-Use_Case_Proposal_Template.md)    | This template provide guidelines on how to construct a use case.
+ Requirements                  | [EEP-0013-Requirements_Proposal_Template](draft/templates/P-0013-Requirements_Proposal_Template.md)| Template that can be used to convert the Use Case commercial requirements into technical requirements.
  Working Group Creation        | [EEP0009-Group_Proposal_Template](draf/templates/EEP0009-Group_Proposal_Template.md) | 
- Templates                     | []()                                       | Template for the creation of new templates.
- Working Group Process         | []()                                       | Template to define new or enhanced changes to a Working Group Process
- Standard Working Group        | []()                                       |
+ Templates                     | TBD                                      | Template for the creation of new templates.
+ Working Group Process         | TBD                                       | Template to define new or enhanced changes to a Working 
+ Technical Specifications        | [EEP0002-Standards_Proposal_Template](draf/templates/EEP0002-Standards_Proposal_Template.md
+)                                       |
  
  ### Use Case Creation Process
  
