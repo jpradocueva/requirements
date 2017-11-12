@@ -24,8 +24,7 @@ The EEA process is divided in the following stages:
  Working Group Creation        | [EEP0009-Group_Proposal_Template](draf/templates/EEP0009-Group_Proposal_Template.md) | 
  Templates                     | TBD                                      | Template for the creation of new templates.
  Working Group Process         | TBD                                       | Template to define new or enhanced changes to a Working 
- Technical Specifications        | [EEP0002-Standards_Proposal_Template](draf/templates/EEP0002-Standards_Proposal_Template.md
-)                                       |
+ Technical Specifications        | [EEP0002-Standards_Proposal_Template](draf/templates/EEP0002-Standards_Proposal_Template.md)  | This template is used to define the Technical Specifications and Code.                                    
  
  ### Use Case Creation Process
  
