@@ -16,49 +16,59 @@ the interactions between a role (actor) and a system to achieve a goal. The acto
 The analysis of the Use Case will identify the requirements of the system under desing. information contained in Use Case will be used to derive technical requirements.
 
 
-# Use Case Title 
+# Use Case Title (write your title here)
 ```
 The level of detail of descriptions shall be above technical implementations of protocols.
 The sub-sections below should consist of one or two sentences.
+TO BE DELETED.
 ```
-# Brief Description
 
+# Brief Description
 ```
 A brief paragraph of text describing the scope of the use case.
+TO BE DELETED.
 ```
+Write your brief description here ...
 
 # Actor
-
 ```
 A list of the types of users who can engage in the activities described in the use case. Actor names should not correspond to job titles.
+TO BE DELETED.
 ```
+List the actors here ...
 
 # Preconditions
 ```
 Anything the solution can assume to be true when the use case begins.
+TO BE DELETED.
 ```
+Set your preconditions here ...
 
 # Basic Flow
-
 ```
 The set of steps the actors take to accomplish the goal of the use case. A clear description of what the system does in response to each user action.
+TO BE DELETED.
 ```
+Set your basic flow here ...
 
 # Alternate Flows
-
 ```
 Capture the less common user/system interactions, such as being on a new computer and answering a security question.
+TO BE DELETED.
 ```
+Define your alternate flows here ...
 
 # Exception Flows
-
 ```
 The things that can happen that prevent the user from achieving their goal, such as providing an incorrect username and password.
+TO BE DELETED.
 ```
-# Post Conditions
+Define your exception flows here ...
 
+# Post Conditions
 ```
 Anything that must be true when the use case is complete.
+TO BE DELETED.
 ```
-
+Set the post conditions here ...
 
