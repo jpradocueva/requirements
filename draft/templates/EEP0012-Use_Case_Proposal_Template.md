@@ -1,5 +1,5 @@
     EEP: 0012
-    Title: Use Case Template
+    Title: Use Case Proposal Template
     Author: Joaquin Prado
     Type: Process
     Status: Draft
@@ -9,12 +9,13 @@
     Replaces (*optional): N/A
  
 # What is an Use Case   
- 
+``` 
 A Use Case document describes commercial requirements a very high-level. It contains a list of actions or events steps typically defining
 the interactions between a role (actor) and a system to achieve a goal. The actor can be a human or other external system.
 
 The analysis of the Use Case will identify the requirements of the system under desing. information contained in Use Case will be used to derive technical requirements.
-
+TO BE DELETED.
+```
 
 # Use Case Title (write your title here)
 ```
@@ -35,7 +36,7 @@ Write your brief description here ...
 A list of the types of users who can engage in the activities described in the use case. Actor names should not correspond to job titles.
 TO BE DELETED.
 ```
-List the actors here ...
+List all the actors here ...
 
 # Preconditions
 ```
